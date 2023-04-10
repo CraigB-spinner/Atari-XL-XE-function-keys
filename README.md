@@ -10,5 +10,5 @@ When switching from the original 400/800 Atari 8-bit machines to the ill-fated 1
 [![3](pic/TN/IMG_2021.JPG)](pic/IMG_2021.JPG) 
 [![4](pic/TN/IMG_2028.JPG)](pic/IMG_2028.JPG) <BR/>
 [![5](pic/TN/IMG_2024.JPG)](pic/IMG_2024.JPG)
-[![6](pic/TN/IMG_2025.JPG)](pic/IMG_2025.JPG) wires Orange, Yellow, Green, Blue<BR/>
+[![6](pic/TN/IMG_2025.JPG)](pic/IMG_2025.JPG) wires are Orange, Yellow, Green, Blue (right to left)<BR/>
 <BR/>
