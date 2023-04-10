@@ -4,5 +4,6 @@ When switching from the original 400/800 Atari 8-bit machines to the ill-fated 1
 <BR/>
 ![B](pic/TNx2/IMG_2027.JPG) ![A](pic/TNx2/IMG_2026.JPG) <BR/>
 <BR/>
-![1](pic/TN/IMG_2021.JPG) ![2](pic/TN/IMG_2022.JPG) ![3](pic/TN/IMG_2023.JPG) ![4](pic/TN/IMG_2024.JPG) ![5](pic/TN/IMG_2025.JPG) ![6](pic/TN/IMG_2028.JPG)  <BR/>
+![1](pic/TN/IMG_2021.JPG) ![2](pic/TN/IMG_2022.JPG) <BR/>
+![3](pic/TN/IMG_2023.JPG) ![4](pic/TN/IMG_2024.JPG) ![5](pic/TN/IMG_2025.JPG) ![6](pic/TN/IMG_2028.JPG)  <BR/>
 <BR/>
