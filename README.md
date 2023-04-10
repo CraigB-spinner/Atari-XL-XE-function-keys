@@ -12,4 +12,8 @@ When switching from the original 400/800 Atari 8-bit machines to the ill-fated 1
 [![5](pic/TN/IMG_2024.JPG)](pic/IMG_2024.JPG)
 [![6](pic/TN/IMG_2025.JPG)](pic/IMG_2025.JPG) wires are Orange-17, Yellow-10, Green-8, Blue-5 (right to left)  
 24 pin keyboard connectorfrom case top, <BR/>
+**⇧** Y-B (pins 10 & 5)  
+**⇩** O-B (pins 17 & 5)  
+**⇦** Y-G (pins 10 & 8)  
+**⇨** O-G (pins 17 & 8)  
 <BR/>
