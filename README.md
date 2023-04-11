@@ -1,6 +1,6 @@
 ## **Atari XL/XE function keys**
 The Atari 1200XL introduced four function keys. <br/>
-When the original 400/800 Atari 8-bit machines were re-engineered to the ill-fated 1200XL, Atari dropped 2 joystick ports from 4 to 2, added on-board diagonstics, BASIC ROM and four function keys. Back in fall of 1984, I acquired my Atari 600XL with TRAK disk drive, joystick, and two games. Since the XL/XE Atari OS still retained code for function keys, I modded my 600, later re-adding abandoned cursor/function keys.  
+When the original 400/800 Atari 8-bit machines were re-engineered to the ill-fated 1200XL, Atari dropped 2 joystick ports from 4 to 2, added on-board diagonstics, BASIC ROM and four function keys. Back in fall of 1984, I acquired my Atari 600XL with TRAK disk drive, joystick, and two games. Since the XL/XE Atari OS still retained code for function keys, I modded my 600, later re-adding abandoned [cursor/function](pic/1200XL-Function-Keys.jpg) keys.  
 Extra buttons default to cursor keys, Shift to jump within page top/bottom/left margin/right margin, and Ctrl for special features. (Keyboard Lock, DMA or Screen Blank, Key Click, Ctrl Chars.)  
 <sup>Video DMA disabling elicits a CPU processing 'speed-up' used for faster number crunching or DSP/digital audio playback.</sup>
 <br/>
